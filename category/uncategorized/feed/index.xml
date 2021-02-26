@@ -12,14 +12,48 @@
 	<atom:link href="/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description></description>
-	<lastBuildDate>Fri, 12 Feb 2021 01:21:38 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 26 Feb 2021 04:11:20 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.6.1</generator>
+	<generator>https://wordpress.org/?v=5.6.2</generator>
 	<item>
+		<title>(Past Project-Abandoned) Time Management App</title>
+		<link>/2021/02/26/past-project-abandoned-time-management-app/</link>
+					<comments>/2021/02/26/past-project-abandoned-time-management-app/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 26 Feb 2021 01:47:06 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=110</guid>
+
+					<description><![CDATA[<div class="entry-summary">
+For my first actual post I would like to document one of my old project ideas that I have not&#8230;
+</div><div class="link-more"><a href="/2021/02/26/past-project-abandoned-time-management-app/" class="more-link">Continue reading<span class="screen-reader-text"> &#8220;(Past Project-Abandoned) Time Management App&#8221;</span>&#8230;</a></div>]]></description>
+										<content:encoded><![CDATA[
+<p>For my first actual post I would like to document one of my old project ideas that I have not fully finished and have little intention of going back, but my idea for the app was the following.</p>
+
+
+
+<p>A simple time management app that would push a notification everyday at a certain designated time that would remind the user to input data about their health, for my purposes it was general activities(exercise, leisure and work) to help organize a day. Another aspect was giving the total time that you spent at the end of the week so in retrospect you could use that data to better the next week.</p>
+
+
+
+<figure class="wp-block-gallery columns-3 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" width="1440" height="2560" src="/wp-content/uploads/2021/02/Screenshot_20210225-195352.png" alt="" data-id="119" data-link="/2021/02/26/past-project-abandoned-time-management-app/screenshot_20210225-195352/" class="wp-image-119" srcset="/wp-content/uploads/2021/02/Screenshot_20210225-195352.png 1440w, /wp-content/uploads/2021/02/Screenshot_20210225-195352-169x300.png 169w, /wp-content/uploads/2021/02/Screenshot_20210225-195352-576x1024.png 576w, /wp-content/uploads/2021/02/Screenshot_20210225-195352-768x1365.png 768w, /wp-content/uploads/2021/02/Screenshot_20210225-195352-864x1536.png 864w, /wp-content/uploads/2021/02/Screenshot_20210225-195352-1152x2048.png 1152w" sizes="(max-width: 1440px) 100vw, 1440px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1440" height="2560" src="/wp-content/uploads/2021/02/Screenshot_20210225-195352-1.png" alt="" data-id="120" data-link="/2021/02/26/past-project-abandoned-time-management-app/screenshot_20210225-195352-1/" class="wp-image-120" srcset="/wp-content/uploads/2021/02/Screenshot_20210225-195352-1.png 1440w, /wp-content/uploads/2021/02/Screenshot_20210225-195352-1-169x300.png 169w, /wp-content/uploads/2021/02/Screenshot_20210225-195352-1-576x1024.png 576w, /wp-content/uploads/2021/02/Screenshot_20210225-195352-1-768x1365.png 768w, /wp-content/uploads/2021/02/Screenshot_20210225-195352-1-864x1536.png 864w, /wp-content/uploads/2021/02/Screenshot_20210225-195352-1-1152x2048.png 1152w" sizes="(max-width: 1440px) 100vw, 1440px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1440" height="2560" src="/wp-content/uploads/2021/02/Screenshot_20210225-195449.png" alt="" data-id="123" data-link="/2021/02/26/past-project-abandoned-time-management-app/screenshot_20210225-195449/" class="wp-image-123" srcset="/wp-content/uploads/2021/02/Screenshot_20210225-195449.png 1440w, /wp-content/uploads/2021/02/Screenshot_20210225-195449-169x300.png 169w, /wp-content/uploads/2021/02/Screenshot_20210225-195449-576x1024.png 576w, /wp-content/uploads/2021/02/Screenshot_20210225-195449-768x1365.png 768w, /wp-content/uploads/2021/02/Screenshot_20210225-195449-864x1536.png 864w, /wp-content/uploads/2021/02/Screenshot_20210225-195449-1152x2048.png 1152w" sizes="(max-width: 1440px) 100vw, 1440px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1440" height="2560" src="/wp-content/uploads/2021/02/Screenshot_20210225-195436.png" alt="" data-id="121" data-link="/2021/02/26/past-project-abandoned-time-management-app/screenshot_20210225-195436/" class="wp-image-121" srcset="/wp-content/uploads/2021/02/Screenshot_20210225-195436.png 1440w, /wp-content/uploads/2021/02/Screenshot_20210225-195436-169x300.png 169w, /wp-content/uploads/2021/02/Screenshot_20210225-195436-576x1024.png 576w, /wp-content/uploads/2021/02/Screenshot_20210225-195436-768x1365.png 768w, /wp-content/uploads/2021/02/Screenshot_20210225-195436-864x1536.png 864w, /wp-content/uploads/2021/02/Screenshot_20210225-195436-1152x2048.png 1152w" sizes="(max-width: 1440px) 100vw, 1440px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1440" height="2560" src="/wp-content/uploads/2021/02/Screenshot_20210225-195441.png" alt="" data-id="122" data-link="/2021/02/26/past-project-abandoned-time-management-app/screenshot_20210225-195441/" class="wp-image-122" srcset="/wp-content/uploads/2021/02/Screenshot_20210225-195441.png 1440w, /wp-content/uploads/2021/02/Screenshot_20210225-195441-169x300.png 169w, /wp-content/uploads/2021/02/Screenshot_20210225-195441-576x1024.png 576w, /wp-content/uploads/2021/02/Screenshot_20210225-195441-768x1365.png 768w, /wp-content/uploads/2021/02/Screenshot_20210225-195441-864x1536.png 864w, /wp-content/uploads/2021/02/Screenshot_20210225-195441-1152x2048.png 1152w" sizes="(max-width: 1440px) 100vw, 1440px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1440" height="2560" src="/wp-content/uploads/2021/02/Screenshot_20210225-195456.png" alt="" data-id="124" data-full-url="/wp-content/uploads/2021/02/Screenshot_20210225-195456.png" data-link="/2021/02/26/past-project-abandoned-time-management-app/screenshot_20210225-195456/" class="wp-image-124" srcset="/wp-content/uploads/2021/02/Screenshot_20210225-195456.png 1440w, /wp-content/uploads/2021/02/Screenshot_20210225-195456-169x300.png 169w, /wp-content/uploads/2021/02/Screenshot_20210225-195456-576x1024.png 576w, /wp-content/uploads/2021/02/Screenshot_20210225-195456-768x1365.png 768w, /wp-content/uploads/2021/02/Screenshot_20210225-195456-864x1536.png 864w, /wp-content/uploads/2021/02/Screenshot_20210225-195456-1152x2048.png 1152w" sizes="(max-width: 1440px) 100vw, 1440px" /><figcaption class="blocks-gallery-item__caption">Data Input</figcaption></figure></li></ul></figure>
+
+
+
+<p>These are the layouts of the app that I was working on it is not the greatest as it was a work in progress.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2021/02/26/past-project-abandoned-time-management-app/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>First Post</title>
 		<link>/2021/02/12/first-post/</link>
 					<comments>/2021/02/12/first-post/#respond</comments>
