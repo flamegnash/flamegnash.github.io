@@ -12,7 +12,7 @@
 	<atom:link href="/author/admin/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description></description>
-	<lastBuildDate>Mon, 08 Mar 2021 02:16:07 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 08 Mar 2021 06:31:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -25,7 +25,7 @@
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 26 Feb 2021 01:47:06 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
+				<category><![CDATA[Past Projects]]></category>
 		<guid isPermaLink="false">/?p=110</guid>
 
 					<description><![CDATA[<div class="entry-summary">
@@ -56,7 +56,7 @@ For my first actual post I would like to document one of my old project ideas th
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 12 Feb 2021 01:21:38 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
+				<category><![CDATA[Misc]]></category>
 		<guid isPermaLink="false">/?p=63</guid>
 
 					<description><![CDATA[<div class="entry-summary">

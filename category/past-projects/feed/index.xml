@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>A Site About Me</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<title>Past Projects &#8211; A Site About Me</title>
+	<atom:link href="/category/past-projects/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description></description>
-	<lastBuildDate>Mon, 08 Mar 2021 06:31:14 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 08 Mar 2021 06:30:00 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -45,33 +45,6 @@ For my first actual post I would like to document one of my old project ideas th
 
 
 <p>These are the layouts of the app that I was working on it is not the greatest as it was a work in progress.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>First Post</title>
-		<link>/2021/02/12/first-post/</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Fri, 12 Feb 2021 01:21:38 +0000</pubDate>
-				<category><![CDATA[Misc]]></category>
-		<guid isPermaLink="false">/?p=63</guid>
-
-					<description><![CDATA[<div class="entry-summary">
-This is a Test post making sure that I have accomplished what is needed for future blogging and posting of&#8230;
-</div><div class="link-more"><a href="/2021/02/12/first-post/" class="more-link">Continue reading<span class="screen-reader-text"> &#8220;First Post&#8221;</span>&#8230;</a></div>]]></description>
-										<content:encoded><![CDATA[
-<p>This is a Test post making sure that I have accomplished what is needed for future blogging and posting of project ideas.</p>
-
-
-
-<figure class="wp-block-image size-large"><img loading="lazy" width="768" height="1024" src="/wp-content/uploads/2021/02/IMG_20210205_060256-768x1024.jpg" alt="" class="wp-image-64" srcset="/wp-content/uploads/2021/02/IMG_20210205_060256-768x1024.jpg 768w, /wp-content/uploads/2021/02/IMG_20210205_060256-225x300.jpg 225w, /wp-content/uploads/2021/02/IMG_20210205_060256-1152x1536.jpg 1152w, /wp-content/uploads/2021/02/IMG_20210205_060256-1536x2048.jpg 1536w, /wp-content/uploads/2021/02/IMG_20210205_060256-scaled.jpg 1920w" sizes="(max-width: 768px) 100vw, 768px" /><figcaption>A Picture of my cat, Mischief.</figcaption></figure>
-
-
-
-<p></p>
 ]]></content:encoded>
 					
 		
