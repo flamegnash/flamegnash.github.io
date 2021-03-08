@@ -12,7 +12,7 @@
 	<atom:link href="/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description></description>
-	<lastBuildDate>Fri, 26 Feb 2021 04:11:20 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 08 Mar 2021 02:16:07 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -22,7 +22,6 @@
 	<item>
 		<title>(Past Project-Abandoned) Time Management App</title>
 		<link>/2021/02/26/past-project-abandoned-time-management-app/</link>
-					<comments>/2021/02/26/past-project-abandoned-time-management-app/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 26 Feb 2021 01:47:06 +0000</pubDate>
@@ -48,15 +47,12 @@ For my first actual post I would like to document one of my old project ideas th
 <p>These are the layouts of the app that I was working on it is not the greatest as it was a work in progress.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2021/02/26/past-project-abandoned-time-management-app/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>First Post</title>
 		<link>/2021/02/12/first-post/</link>
-					<comments>/2021/02/12/first-post/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 12 Feb 2021 01:21:38 +0000</pubDate>
@@ -78,8 +74,6 @@ This is a Test post making sure that I have accomplished what is needed for futu
 <p></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2021/02/12/first-post/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
